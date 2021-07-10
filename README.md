@@ -114,6 +114,10 @@ HOW TO USE :
 	- If your connection goes off while being in either the teams page or chat page , it will prompt you to a page with an image showcasing that you don't have a proper internet connection.
 
 ![image](https://user-images.githubusercontent.com/73520130/125171243-bb7e5d00-e1d0-11eb-93ea-5ddb332df826.png)
+	
+	- You can also long press the teams card and it will show a small toaster displaying that it is the general channel.
+	- When you open the app it shows a toaster saying "Welcome!".
+	- Front and back camera switching, mic on/off also works in the meeting.
 
 
 LEARNINGS :
