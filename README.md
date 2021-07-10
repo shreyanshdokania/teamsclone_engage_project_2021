@@ -1,3 +1,6 @@
+
+
+
 HOW TO USE :
 
 1. Sign in through your google account (The app will only take the basic data like username, email , profile photo url etc and not even the phone number) after completing the local authentication(including fingerprint and face ID).
@@ -118,6 +121,30 @@ HOW TO USE :
 	- You can also long press the teams card and it will show a small toaster displaying that it is the general channel.
 	- When you open the app it shows a toaster saying "Welcome!".
 	- Front and back camera switching, mic on/off also works in the meeting.
+
+AGILE METHODOLOGY USED(scrum and sprints):
+
+Planning and Work done :
+
+| DATE RANGE  | WORK DONE  |
+| :------------ |:---------------:|
+| 19-23 June    | Built basic app structure with all navigation bars and sidebars |
+| 24-25 June     | Implemented private chat for users with a basic search        |
+| 26-28 June | Completed implementing team creation and the posts creation part       |
+| 29-30 June    | Implemented video calling feature and other small features like toast and delete features in chat |
+| 1-3 July     | Built simultaneous meeting chat and refined the UI       |
+| 4-5 July | Optimized the search algorithm and created separate user pages        |
+| 6-7 July    | Built meeting scheduling and before and after chat |
+| 7-10 July    | Performed testing on different devices and fixed bugs and finished the project       |
+
+
+Making the app dynamic and adaptable to changes :
+
+- Used NoSQL database (Firebase Cloud Firestore) to be able to easily adapt to changes.
+- Made use of the Flutter Null Safety functionality to avoid any sort of exceptions or suspensions.
+- Synchronized the codebase and different packages used in the project to work without any issues.
+- Separated the business logic and UI components and made the codes reusable.
+- Provided comments to all the scripts.
 
 
 LEARNINGS :
