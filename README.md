@@ -1,5 +1,8 @@
-
-
+TECH STACK :
+- Flutter (For UI)
+- Dart(Backend)
+- For video calling(Agora SDK)
+- Databse (Firebase Cloud Firestore)
 
 HOW TO USE :
 
