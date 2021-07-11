@@ -100,6 +100,7 @@ HOW TO USE :
 ![image](https://user-images.githubusercontent.com/73520130/125171128-2a0eeb00-e1d0-11eb-9897-30a782fd49ee.png)
 
 	- Use that icon to create and join an instant meet and you can even send invite emails to the members of the team while starting the meeting using a switch which will be available when you create an instant meeting from a popup.
+	- Just send a normal message before starting a meet if you just created a team(else it may cause internet permission issues to connect to database).
 	- Please refer to the "IMPORTANT NOTE" at the top of this file.
 
 ![image](https://user-images.githubusercontent.com/73520130/125171154-5591d580-e1d0-11eb-8566-3c08426b07bc.png)
