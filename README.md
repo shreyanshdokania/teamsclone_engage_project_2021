@@ -1,8 +1,15 @@
+IMPORTANT NOTE :
+- If the meeting chat doesn't works at the very first time after you create a team and start a meet , try doing it for a second time because depending on your device the app may take up some time setting up the permissions required.
+- Best you can do is that, after you create a team , just send a normal message first and then start a meeting.
+
 TECH STACK :
 - Flutter (For UI)
 - Dart(Backend)
 - For video calling(Agora SDK)
 - Database (Firebase Cloud Firestore)
+
+YOUTUBE DEMO :
+https://youtu.be/KJ6_nbV-YbA
 
 HOW TO USE :
 
@@ -93,6 +100,7 @@ HOW TO USE :
 ![image](https://user-images.githubusercontent.com/73520130/125171128-2a0eeb00-e1d0-11eb-9897-30a782fd49ee.png)
 
 	- Use that icon to create and join an instant meet and you can even send invite emails to the members of the team while starting the meeting using a switch which will be available when you create an instant meeting from a popup.
+	- Please refer to the "IMPORTANT NOTE" at the top of this file.
 
 ![image](https://user-images.githubusercontent.com/73520130/125171154-5591d580-e1d0-11eb-8566-3c08426b07bc.png)
 ![image](https://user-images.githubusercontent.com/73520130/125171278-fc767180-e1d0-11eb-8324-643d7cf99d7b.png)
