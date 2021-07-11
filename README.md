@@ -1,3 +1,6 @@
+APP IN THIS DRIVE LINK :
+https://drive.google.com/drive/folders/18ym45AipV6Z3LBbRDHxK7k9NkVtWG5Kv?usp=sharing
+
 IMPORTANT NOTE :
 - If the meeting chat doesn't works at the very first time after you create a team and start a meet , try doing it for a second time because depending on your device the app may take up some time setting up the permissions required.
 - Best you can do is that, after you create a team , just send a normal message first and then start a meeting. This is just one timer thing to set up everything required for the video and chat to work on each specific devices. Just to keep everything checked.
