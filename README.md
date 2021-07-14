@@ -86,6 +86,7 @@ HOW TO USE :
 	- Click on the schedule icon and you will be prompted to a popup to schedule a meeting.
 	- The meeting you schedule will be having a 24 hrs format.
 	- Provide a meeting id and select a time from the dropdown menu for the meeting to start at and schedule the meeting.
+	- The meeting can be scheduled only for the current day and not for later. The dropdown menu visible will have numbers from 1-24 showcasing the timing in hours in 24hrs format and will automatically schedule it for the current day at that particular hour.
 
 ![image](https://user-images.githubusercontent.com/73520130/125171050-bb319200-e1cf-11eb-86f0-7cebbfd85ebc.png)
 
