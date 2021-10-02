@@ -1,9 +1,6 @@
 APP IN THIS DRIVE LINK :
 https://drive.google.com/drive/folders/18ym45AipV6Z3LBbRDHxK7k9NkVtWG5Kv?usp=sharing
 
-IMPORTANT NOTE :
-- If the meeting chat doesn't works at the very first time after you create a team and start a meet , try doing it for a second time because depending on your device the app may take up some time setting up the permissions required.
-- Best you can do is that, after you create a team , just send a normal message first and then start a meeting. This is just one timer thing to set up everything required for the video and chat to work on each specific devices. Just to keep everything checked.
 
 TECH STACK :
 - Flutter (For UI)
@@ -104,8 +101,7 @@ HOW TO USE :
 ![image](https://user-images.githubusercontent.com/73520130/125171128-2a0eeb00-e1d0-11eb-9897-30a782fd49ee.png)
 
 	- Use that icon to create and join an instant meet and you can even send invite emails to the members of the team while starting the meeting using a switch which will be available when you create an instant meeting from a popup.
-	- Just send a normal message before starting a meet if you just created a team(else it may cause internet permission issues to connect to database).
-	- Please refer to the "IMPORTANT NOTE" at the top of this file.
+
 
 ![image](https://user-images.githubusercontent.com/73520130/125171154-5591d580-e1d0-11eb-8566-3c08426b07bc.png)
 ![image](https://user-images.githubusercontent.com/73520130/125171278-fc767180-e1d0-11eb-8324-643d7cf99d7b.png)
