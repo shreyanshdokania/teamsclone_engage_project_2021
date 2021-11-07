@@ -3,8 +3,8 @@ https://drive.google.com/drive/folders/18ym45AipV6Z3LBbRDHxK7k9NkVtWG5Kv?usp=sha
 
 
 TECH STACK :
-- Flutter (For UI)
-- Dart(Backend)
+- Flutter
+- Firebase (Backend)
 - For video calling(Agora SDK)
 - Database (Firebase Cloud Firestore)
 
